@@ -1,2 +1,2 @@
 # E-commerce
-Springboot, Java basec backend project
+Springboot, Java based backend project
